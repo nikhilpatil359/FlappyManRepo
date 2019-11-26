@@ -9,7 +9,7 @@ var fg = new Image();
 var pipeNorth = new Image();
 var pipeSouth = new Image();
 
-bird.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/1574795928209.png";
+bird.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/bird.png";
 bg.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/bg.png";
 fg.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/fg.png";
 pipeNorth.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/pipeNorth.png";
