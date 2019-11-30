@@ -9,11 +9,11 @@ var fg = new Image();
 var pipeNorth = new Image();
 var pipeSouth = new Image();
 
-bird.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/bird.png";
-bg.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/bg.png";
-fg.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/fg.png";
-pipeNorth.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/pipeNorth.png";
-pipeSouth.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/pipeSouth.png";
+bird.src = "bird.png";
+bg.src = "bg.png";
+fg.src = "fg.png";
+pipeNorth.src = "pipeNorth.png";
+pipeSouth.src = "pipeSouth.png";
 
 
 // some variables
@@ -33,8 +33,8 @@ var score = 0;
 var fly = new Audio();
 var scor = new Audio();
 
-fly.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/fly.mp3";
-scor.src = "https://github.com/nikhilpatil359/FlappyManRepo/blob/master/score.mp3";
+fly.src = "fly.mp3";
+scor.src = "score.mp3";
 
 // on key down
 
